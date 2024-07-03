@@ -1,0 +1,6 @@
+langchain 
+transformers 
+streamlit
+matplotlib==3.4.3  
+seaborn==0.11.2  
+requests==2.26.0  
